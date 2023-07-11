@@ -1,0 +1,8 @@
+.blog{
+    background-color: purple;
+    border: solid 5px gold;
+    color: white;
+    padding: 5px;
+    margin: 30px;
+    box-shadow: 10px 10px black;
+}
